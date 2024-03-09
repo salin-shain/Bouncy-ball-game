@@ -9,6 +9,7 @@ Welcome to the exciting world of our Bouncy Ball Game with a twist! Get ready to
 - [Game Controls](#game-controls)
 - [Code Structure](#code-structure)
 - [Tutorial Source](#tutorial-source)
+- [Hosted Link](#hosted-link)
 
 ## Features
 
@@ -53,4 +54,8 @@ This project is based on the "Introducing JavaScript objects" tutorial available
 
 [Introducing JavaScript objects - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
+## Hosted Link
+https://salin-shain.github.io/Bouncy-ball-game/
+
 ---
+
